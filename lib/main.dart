@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ThemeProvider.controllerOf(context).setTheme('mi-tema-rojo');
                 }),
             MaterialButton(
-                child: Text('Elije tu tema'),
+                child: Text('Elige tu tema'),
                 color: Theme.of(context).accentColor,
                 onPressed: () {
                   showDialog(
