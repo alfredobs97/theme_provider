@@ -1,16 +1,3 @@
 # theme_provider
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Código usado en el siguiente post: https://medium.com/@alfredobautista1/probando-theme-provider-en-flutter-f631811ec5a?sk=3fe72b9a44697c377c2dcdfaa0df351a
